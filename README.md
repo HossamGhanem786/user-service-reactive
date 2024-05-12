@@ -1,1 +1,1 @@
-POC for reactive programing
+POC for reactive programming
